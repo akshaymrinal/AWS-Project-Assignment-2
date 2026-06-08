@@ -55,6 +55,3 @@ autosave-ec2-state/
 - Instance metadata is collected.
 - Backup JSON file is stored in S3.
 
-## Author
-
-Akshay Mrinal
