@@ -1,1 +1,1 @@
-# Autosave EC2 State Before Shutdown\n
+# Autosave EC2 State Before Shutdown
